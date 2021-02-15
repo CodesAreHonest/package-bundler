@@ -18,7 +18,7 @@ const config: Configuration = {
   // https://webpack.js.org/configuration/output/
   output: {
     library: {
-      type: "umd",
+      type: "commonjs2",
       name: "sample_package",
     },
     publicPath: "./",

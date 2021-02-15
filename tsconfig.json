@@ -26,7 +26,7 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    "isolatedModules": false,
 
     // make rooms for Babel or Webpack to convert TS to JS
     // https://www.typescriptlang.org/tsconfig#noEmit
